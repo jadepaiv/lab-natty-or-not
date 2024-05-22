@@ -21,7 +21,7 @@ Linguagem acessível e envolvente: O texto é escrito de forma clara, concisa e 
 Formato estruturado e organizado: A estrutura do ebook facilita a leitura e a busca por informações específicas.
 Disponibilidade gratuita: O ebook está disponível gratuitamente para download, tornando-o acessível a um público amplo.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://docs.google.com/document/d/1kRl5zIgsNex0rKaSLzHc6-bThJpT9Vr0K931-dBjRgk/edit?usp=sharing)
 
 ## 💭 Reflexão
 O ebook "Inteligência Artificial: Uma Jornada Através do Tempo" busca contribuir para a compreensão da IA e para a construção de um futuro responsável com essa tecnologia. Ao fornecer informações precisas e acessíveis sobre o tema, o ebook espera:
